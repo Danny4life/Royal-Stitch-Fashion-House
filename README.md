@@ -63,30 +63,33 @@ code .
 To keep the project organized, direct pushes to the main branch are not allowed.
 All contributions must follow the steps below.
 
-### Step 1: Create a New Branch
+### Step 1: Pull from the main Branch to get the latest changes
+git pull
+
+### Step 2: From the main branch, create a New Branch
 
 git checkout -b feature-branch-name
 
 Example:
 git checkout -b navbar-section
 
-### Step 2: Make Your Changes
+### Step 3: Make Your Changes
 
 Add or modify HTML, CSS, or JavaScript files
 
 Test your changes in the browser
 
-### Step 3: Stage and Commit Changes
+### Step 4: Stage and Commit Changes
 
 git add .
 
 git commit -m "Add navbar section"
 
-### Step 4: Push Your Branch to GitHub
+### Step 5: Push Your Branch to GitHub
 
 git push origin feature-branch-name
 
-### Step 5: Create a Pull Request (PR)
+### Step 6: Create a Pull Request (PR)
 
 Go to the GitHub repository
 
