@@ -1,4 +1,4 @@
-# Fashion House Website
+# Royal Stitch Fashion House Website
 
 ## 📌 Project Description
 This project is a modern and responsive **fashion house website** built using **HTML, CSS, and JavaScript**.  
